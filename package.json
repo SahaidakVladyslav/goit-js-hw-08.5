@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "simplelightbox": "^2.14.2"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "name": "goit-js-hw-08.5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
